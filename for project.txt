@@ -1,0 +1,27 @@
+We will use nice looking and modern platform - Ghost
+https://en.wikipedia.org/wiki/Ghost_(blogging_platform)
+
+https://ghost.org/docs/jamstack/
+
+
+https://www.sanity.io/mobile-cms
+
+https://ghost.org/changelog/android/
+
+https://vuejsexamples.com/a-simple-vue-grid-help-you-to-build-excellent-layout-for-your-app/
+
+https://vuejsexamples.com/tag/grid/
+
+https://html5.by/blog/flexbox/
+
+https://gatsby.ghost.org/themes/
+
+ghost casper theme customization
+
+https://vuejsdevelopers.com/2017/10/09/vue-js-masonary-grid/
+
+https://strapi.io/pricing-self-hosted
+
+Updated plan
+Why static site generators
+Prototypes
